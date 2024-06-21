@@ -1,0 +1,83 @@
+#company{
+  background-color: rgb(125, 114, 114);
+}
+#vernagir {
+    text-align: center;
+    color: azure;
+}
+h2{
+  color: aliceblue;
+}
+#home-link{
+  color: aliceblue;
+  font-size: 27px;
+  text-decoration-line: overline underline;
+  text-decoration-color:black;
+  
+}
+#navigation{
+    text-align: center;
+}
+#nkar {
+    display: grid;
+       place-items: center;
+       
+  }
+  img {
+    width: 720px;
+    height: auto
+  }
+  #dzuk{
+    width: 64px;
+    height: auto;
+    position: relative;
+    left: 710px;
+    bottom: 318.781px;
+  }
+ #name{
+  width: 300px;
+  height: 30px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  
+ }
+ #surname{
+  width: 300px;
+  height: 30px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 10px;
+ }
+ #email{
+  width: 300px;
+  height: 30px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 10px;
+ }
+  #message{
+    
+    width: 500px;
+    height: 80px;
+    border: 2px solid #000000;
+  border-radius: 10px;
+  
+  }
+#body-body {
+  display:grid;
+  place-items:center;
+}
+body div p {
+  font-size: 20px;
+  color: blue;
+}
+
+body div button {
+  padding:10px 100px;
+  color: rgb(0, 0, 0);
+  background-color: green;
+}
+#aquarium-company{
+  text-align: start;
+}
